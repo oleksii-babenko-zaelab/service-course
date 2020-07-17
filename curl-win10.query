@@ -1,0 +1,1 @@
+curl --location --request GET "https://api.vtex.com/api/dataentities/backendproductusers/search?_fields=slug,count&_schema=v1&an=appliancetheme" --header 'Content-Type: application/json'
